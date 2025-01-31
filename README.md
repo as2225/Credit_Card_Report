@@ -52,8 +52,8 @@ Graduate and High School categories contribute $10M and $5M, respectively.
 Postgraduate and uneducated customers contribute lower revenue.
 
 7. Revenue by Number of Dependents:
-Customers with no dependents contribute $7M.
-Customers with 2 and 4 dependents generate $5M each.
+Customers with no dependents contribute less than $5M.
+Customers with 2 and 4 dependents generate $7-9M each.
 Those with more than 4 dependents contribute less revenue.
 
 8. Revenue by Location (Top 5 States):
